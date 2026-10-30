@@ -1,0 +1,4 @@
+operating_segment,hub_count,mean_delay_rate,mean_capacity,mean_delivery_hours
+Escalate,9,0.4600000000000001,480.0,64.65044444444445
+Standard,7,0.025714285714285714,1371.4285714285713,47.239628571428575
+Watch,8,0.155,807.5,56.813675

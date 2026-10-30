@@ -1,0 +1,49 @@
+shipment_id,hub_id,service_type,operating_segment,delay_probability,predicted_delay,operational_action
+SHP90001,HUB22,Standard,Watch,0.27,0,Standard Dispatch
+SHP90002,HUB24,Standard,Escalate,0.56,1,Urgent: Proactive Customer Call & Hub Dispatch Priority
+SHP90003,HUB18,Standard,Escalate,0.69,1,Urgent: Proactive Customer Call & Hub Dispatch Priority
+SHP90004,HUB12,Economy,Watch,0.01,0,Standard Dispatch
+SHP90005,HUB22,Express,Watch,0.56,1,Monitor: Flagged for Potential Delay
+SHP90006,HUB12,Express,Watch,0.23,0,Standard Dispatch
+SHP90007,HUB09,Express,Watch,0.26,0,Standard Dispatch
+SHP90008,HUB01,Standard,Standard,0.03,0,Standard Dispatch
+SHP90009,HUB09,Standard,Watch,0.08,0,Standard Dispatch
+SHP90010,HUB13,Standard,Escalate,0.22,0,Standard Dispatch
+SHP90011,HUB17,Standard,Escalate,0.62,1,Urgent: Proactive Customer Call & Hub Dispatch Priority
+SHP90012,HUB07,Standard,Watch,0.05,0,Standard Dispatch
+SHP90013,HUB06,Standard,Standard,0.01,0,Standard Dispatch
+SHP90014,HUB01,Standard,Standard,0.02,0,Standard Dispatch
+SHP90015,HUB16,Economy,Watch,0.06,0,Standard Dispatch
+SHP90016,HUB19,Standard,Escalate,0.12,0,Standard Dispatch
+SHP90017,HUB23,Standard,Escalate,0.2,0,Standard Dispatch
+SHP90018,HUB24,Standard,Escalate,0.17,0,Standard Dispatch
+SHP90019,HUB16,Economy,Watch,0.06,0,Standard Dispatch
+SHP90020,HUB02,Economy,Standard,0.01,0,Standard Dispatch
+SHP90021,HUB19,Standard,Escalate,0.14,0,Standard Dispatch
+SHP90022,HUB20,Economy,Escalate,0.15,0,Standard Dispatch
+SHP90023,HUB04,Standard,Standard,0.0,0,Standard Dispatch
+SHP90024,HUB15,Standard,Escalate,0.4,1,Urgent: Proactive Customer Call & Hub Dispatch Priority
+SHP90025,HUB20,Standard,Escalate,0.62,1,Urgent: Proactive Customer Call & Hub Dispatch Priority
+SHP90026,HUB03,Express,Standard,0.42,1,Monitor: Flagged for Potential Delay
+SHP90027,HUB23,Standard,Escalate,0.57,1,Urgent: Proactive Customer Call & Hub Dispatch Priority
+SHP90028,HUB18,Economy,Escalate,0.33,0,Standard Dispatch
+SHP90029,HUB13,Express,Escalate,0.33,0,Standard Dispatch
+SHP90030,HUB17,Economy,Escalate,0.23,0,Standard Dispatch
+SHP90031,HUB04,Economy,Standard,0.01,0,Standard Dispatch
+SHP90032,HUB08,Standard,Standard,0.0,0,Standard Dispatch
+SHP90033,HUB10,Standard,Watch,0.01,0,Standard Dispatch
+SHP90034,HUB15,Economy,Escalate,0.52,1,Urgent: Proactive Customer Call & Hub Dispatch Priority
+SHP90035,HUB08,Express,Standard,0.16,0,Standard Dispatch
+SHP90036,HUB05,Economy,Standard,0.1,0,Standard Dispatch
+SHP90037,HUB07,Express,Watch,0.2,0,Standard Dispatch
+SHP90038,HUB14,Standard,Watch,0.21,0,Standard Dispatch
+SHP90039,HUB06,Standard,Standard,0.02,0,Standard Dispatch
+SHP90040,HUB11,Standard,Watch,0.03,0,Standard Dispatch
+SHP90041,HUB21,Economy,Escalate,0.6,1,Urgent: Proactive Customer Call & Hub Dispatch Priority
+SHP90042,HUB10,Economy,Watch,0.04,0,Standard Dispatch
+SHP90043,HUB05,Standard,Standard,0.07,0,Standard Dispatch
+SHP90044,HUB14,Express,Watch,0.3,0,Standard Dispatch
+SHP90045,HUB03,Standard,Standard,0.02,0,Standard Dispatch
+SHP90046,HUB21,Standard,Escalate,0.49,1,Urgent: Proactive Customer Call & Hub Dispatch Priority
+SHP90047,HUB11,Economy,Watch,0.0,0,Standard Dispatch
+SHP90048,HUB02,Economy,Standard,0.02,0,Standard Dispatch

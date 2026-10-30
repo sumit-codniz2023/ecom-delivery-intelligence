@@ -1,0 +1,5 @@
+hub_id,hub_city,admin_tier,operating_segment,delay_rate,reason
+HUB07,Kolkata,1,Watch,0.14,Empirical performance significantly diverges from assigned administrative tier
+HUB13,Nagpur,2,Escalate,0.46,Empirical performance significantly diverges from assigned administrative tier
+HUB15,Kochi,2,Escalate,0.36,Empirical performance significantly diverges from assigned administrative tier
+HUB22,Dehradun,3,Watch,0.2,Empirical performance significantly diverges from assigned administrative tier

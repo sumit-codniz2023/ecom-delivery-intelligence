@@ -1,0 +1,5 @@
+metric,value
+initial_raw_rows,1224
+deduplicated_clean_rows,1200
+duplicates_dropped,24
+final_modelling_rows,1200
